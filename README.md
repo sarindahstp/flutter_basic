@@ -1,6 +1,7 @@
 # flutter_basic
 
 A new Flutter project.
+![Screenshot (595)](https://user-images.githubusercontent.com/89988888/161693154-834d2d40-21ff-448b-82f8-eec73711d30a.png)
 
 ## Getting Started
 
